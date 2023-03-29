@@ -1,1 +1,1 @@
-# This file is Python Homework 1
+This file is Python Homework 1 by Ataol ALPER
